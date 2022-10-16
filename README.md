@@ -1,9 +1,9 @@
 # Personal
 Personal Files are included here
 
-#Python
+# Python
 
-##W3SCHOOLS TEST OWN
+## W3SCHOOLS TEST OWN
 
 You can get the data type of a variable with the type() function.
 
