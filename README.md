@@ -1,5 +1,4 @@
-# Personal
-Personal Files are included here
+# W3Schools & Giraffe Academy
 
 # Python
 
