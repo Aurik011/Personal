@@ -12,5 +12,8 @@ thislist = ["apple", "banana", "cherry"]
 tropical = ["mango", "pineapple", "papaya"]
 thislist.extend(tropical)
 print(thislist)
-
+# Remove list
+thislist = ["apple", "banana", "cherry"]
+thislist.remove("banana")
+print(thislist)
 
